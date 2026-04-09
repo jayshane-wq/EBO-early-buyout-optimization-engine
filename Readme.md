@@ -51,7 +51,7 @@ Monitor / Outreach
 Do Not EBO
 Installation
 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/ebo-optimization-engine.git
+git clone https://github.com/jayshane-wq/ebo-optimization-engine.git
 cd ebo-optimization-engine
 2. Install dependencies
 pip install -r requirements.txt
