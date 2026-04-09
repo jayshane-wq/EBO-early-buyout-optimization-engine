@@ -7,8 +7,8 @@
 
 ## 📥 Sample Files
 
-* [Download Sample Borrowers Data](data/sample_borrowers.csv)
-* [Download Sample PMMS Data](data/sample_pmms.xlsx)
+* [Download Sample Borrowers Data](SampleBrwData.csv)
+* [Download Sample PMMS Data](historicalweeklydata.xlsx)
 
 ---
 
