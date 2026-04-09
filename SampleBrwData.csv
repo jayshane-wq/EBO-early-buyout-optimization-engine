@@ -1,0 +1,13 @@
+loan_id,ltv,cltv,on_time_payments_12m,partial_pay_count_12m,broken_promise_count_12m,avg_days_late_predefault,days_delinquent,income_type,months_on_job,current_note_rate,gas_price_change_pct_90d,unemployment_change_pct_90d,hpi_change_pct_12m,occupancy_status
+L001,72,74,10,0,0,2,92,salary,48,3.25,4,0.1,5,owner occupied
+L002,96,101,7,2,2,12,118,gig,8,4.75,9,0.4,-2,owner occupied
+L003,80,84,9,1,0,4,90,retired,120,2.99,3,0,6,owner occupied
+L004,68,70,11,0,0,1,95,salary,84,7.25,2,0,7,owner occupied
+L005,78,82,8,1,1,6,102,hourly,30,6.85,5,0.1,4,owner occupied
+L006,92,97,6,2,2,14,130,self-employed,18,7.5,8,0.3,1,owner occupied
+L007,65,67,12,0,0,0,91,fixed income,120,8.1,1,0,8,owner occupied
+L008,99,106,5,3,3,18,145,gig,5,3.75,11,0.5,-4,investor
+L009,74,76,9,0,1,5,93,hourly,40,6.2,3,0,5,owner occupied
+L010,88,90,7,1,1,8,110,salary,14,5.95,6,0.2,2,owner occupied
+L011,70,72,10,0,0,2,94,salary,60,8.45,2,0,9,owner occupied
+L012,95,100,6,2,1,11,121,self-employed,10,4.1,7,0.2,-1,owner occupied
